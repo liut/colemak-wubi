@@ -1,3 +1,18 @@
+
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -13,3 +28,5 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+*.txt
